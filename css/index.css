@@ -43,3 +43,9 @@ body{
 
     padding: 1em;
 }
+
+#container-footer{
+
+    background: skyblue;
+    text-align: center;
+}
